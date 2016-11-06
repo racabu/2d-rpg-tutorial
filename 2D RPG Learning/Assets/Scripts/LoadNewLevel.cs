@@ -5,8 +5,8 @@ public class LoadNewLevel : MonoBehaviour {
 
     public string levelToLoad;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 	
 	}
 	
